@@ -1,0 +1,13 @@
+{
+  "name": "key-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@apollo/federation": "^0.9.0",
+    "@apollo/gateway": "^0.10.0",
+    "apollo-server": "^2.9.0",
+    "graphql": "^14.5.3"
+  }
+}
